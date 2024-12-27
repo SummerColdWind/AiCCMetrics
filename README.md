@@ -24,7 +24,7 @@ General Public License v3.0 (GPL-3.0).
 
 ##  Cite our paper
 ```
-DOI: 10.1177/20552076241307573
+Qiao Q, Cao J, Xue W, et al. Deep learning-based automated tool for diagnosing diabetic peripheral neuropathy. DIGITAL HEALTH. 2024;10. doi:10.1177/20552076241307573
 ```
 
 
