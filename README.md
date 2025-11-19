@@ -1,3 +1,17 @@
+> ## 🚨 Project Discontinued
+> 
+> This project is no longer maintained. Please visit our new and upgraded project **SuperCCM** 👉 https://github.com/qlnfm/SuperCCM
+> 
+> ### ❓ What is SuperCCM?
+> **SuperCCM** is an open-source Python framework for analyzing corneal nerve images obtained from Corneal Confocal Microscopy (CCM).
+> 
+> ### 🔗 How is SuperCCM related to this project?
+> SuperCCM fully **covers all the functionalities** of this project while being **faster, more accurate, and more feature-rich**. You can think of SuperCCM as the **next-generation upgrade** of this project.
+> 
+> ### 🛠️ Why create a new SuperCCM project instead of updating this one?
+> As we developed more and more components, we wanted a **unified software package** to integrate them, rather than scattering them across multiple repositories. SuperCCM was created to achieve this goal.
+> 
+
 # AiCCMetrics
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
