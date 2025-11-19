@@ -30,10 +30,6 @@ General Public License v3.0 (GPL-3.0).
 - More accurate
 - Open source
 
-## Attention please
-<hr>
-
-> This warehouse only provides the algorithm source code, if you need to use, please build your own. We also offer an online bulk analysis website, please visit us: www.aiccm.fun
 
 
 ##  Cite our paper
